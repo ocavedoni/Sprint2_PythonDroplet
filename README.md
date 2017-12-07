@@ -5,7 +5,7 @@
 **Author:** Olina Cavedoni
 
 __*Project Description:*__
-\n The objective of this project was to create a virtual machine "Droplet" with a Jupyter Notebook, and then use python to scrape data off of a website to retrieve SP500 data. 
+The objective of this project was to create a virtual machine "Droplet" with a Jupyter Notebook, and then use python to scrape data off of a website to retrieve SP500 data. 
 
 __*Steps:*__
 
