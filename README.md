@@ -44,5 +44,6 @@ Python
 
 __*Notable Observations:*__
 Jupyter Notebook is great. I don't know how I'd use my Digital Ocean Droplet server without it.
+
 __*Next Steps:*__
 Create tables and "Join" them.
